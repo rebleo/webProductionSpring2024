@@ -4,7 +4,7 @@
 
 	Professor: rebecca (marks) leopold
 	Email: rebleo@nyu.edu || rl1697@hunter.cuny.edu
-	Course Wiki: https://github.com/rebleo/webProductionFall2023/wiki
+	Course Wiki: https://github.com/rebleo/webProductionSpring_2024/wiki
 	office hours by appt email me at lest 24 hours in advance
 
 #### [Course Syllabus](MEDP-285_Leopold_Spring_2024.pdf)
