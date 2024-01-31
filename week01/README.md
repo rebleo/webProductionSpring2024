@@ -20,7 +20,7 @@
   4. [text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
   5. [Creating hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
 
-### Assignment 1
+### Assignment 1 
 1. Sign up for github and once verified (check your email) please place your USERNAME along with other relevent info [here](https://docs.google.com/spreadsheets/d/1XAi1WY8lXDxufZ65B_hsnxA5Jp3C08EEwkQyk3riEsU/edit?usp=sharing)
 2. Download and install: a text editor and sftp client
 3. Read: [As We May Think](https://web.mit.edu/STS.035/www/PDFs/think.pdf) - Vannear Bush, 1945
