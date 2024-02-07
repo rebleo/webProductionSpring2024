@@ -33,4 +33,9 @@ If you do not have an F+M server or have issues with your site please please rea
  * responds to number 1. What did you learn? What suprised you? How has this map changed your thinking about the web?
  * links to a separate webpage that houses the above tutorial, and links back
  * Bonus: Using an external CSS style sheet linked in the < head >
+ 
+ Post a link to your live assignment02 [here](https://github.com/rebleo/webProductionSpring2024/wiki/Week-02)
+
+ * Bonus:
+ Once your F&M site is live post a link to it by your name on the home page of our [wiki](https://github.com/rebleo/webProductionSpring2024/wiki).
 
