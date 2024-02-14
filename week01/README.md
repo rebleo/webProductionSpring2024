@@ -30,9 +30,6 @@
  * Skip a line. In a paragraph (3-5 sentences), write your thoughts on what you read. What suprised you, what did it make you think about?
  * Find an image to accompay your text.
  * Challenge: Make the URL’s clickable, change font colors, and insert image/screenshot of the sites. Think of what design you can make using only the tools you have at present. Color, size, font, image, etc.
-5. Using your SFTP client: add your webpage to your F+M Server
-If you do not have an F+M server or have issues with your site please please reach out to: Jhonn Sorroza <js5748@hunter.cuny.edu>
-6. Post the URL that directs to your Assigmnet_1.html page on our [class wiki week 1](https://github.com/rebleo/webProductionSpring2024/wiki/Week-01)
-  * Bonus (optional): Customize the root page of your site and post a link to it by your name on the [home page of our wiki](https://github.com/rebleo/webProductionSpring2024/wiki).
+
 
 The Assignment is worth 5 points. 3 for the various details regarding the web pages and 2 for your thoughts on the text. (you will not be graded on whether or not you get the site live to F&M)
