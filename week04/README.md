@@ -1,7 +1,5 @@
 ### Tuesday Februrary 20
-* Discuss Assignment 3
-* Review SFTP + the class wiki
-* Review HTML + CSS
+![image](boxModel.png)
 
 ### Async Classwork
 ##### Read / Code Along Text Book:
