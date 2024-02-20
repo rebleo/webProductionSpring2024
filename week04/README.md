@@ -11,9 +11,8 @@
 * [Intro to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
 
 #### Assignment 4
-0. Build out your homepage with links to each week's assignment. Add a link to your homepage on the homepage of our wiki - [https://github.com/rebleo/webProductionSpring2024/wiki])
-1. Read (watch): [Ways of Seeing epidose 1](https://www.youtube.com/watch?v=0pDE4VX_9Kk&themeRefresh=1) - Jon Berger, 1972
-2. Do these two [CSS positioning tutorial](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning) [mutiple-colum layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Multiple-column_Layout)- 
-3. Using what you learned from the above tutorials - create a website with an external styling sheet that responds to the Berger "reading." Post a link to your response here - before Wednesday 27  at 3pm.
+0. Build out your homepage with links to each week's assignment. Post a link to our Discord server. By next class you must give at least three of your classmates constructive feedback on their post.  
+1. Do these two [CSS positioning tutorial](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning) [mutiple-colum layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Multiple-column_Layout)- 
+3. Using what you learned from the above tutorials - create a website with an external styling sheet that responds to this [6 page long reading](https://oldobjectsnewideas.com/_reading/Manovich_NewMedia_2.pdf) - Lev Manovich, 2004
 5. **note** you will be quizzed on your knowledge of the first four weeks of material next class
 
