@@ -1,0 +1,15 @@
+main {
+    background-color: orange;
+}
+
+body {
+    background-color: rgba(0,0,0);
+}
+
+img {
+    background-color: blue;
+}
+
+figure {
+    background-color: green;
+}
