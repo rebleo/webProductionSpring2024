@@ -7,13 +7,21 @@ body {
 main {
     background-color: pink;
     padding: 3vw;
+    /* flex display is a different way of positiong stuff in the browers: 
+    short-hand: make easier */
     display: flex;
-  
-   
+ 
 }
 
 p {
     background-color: yellowgreen;
     padding: 3vw;
+    /* display: none; */
 
+
+}
+
+p:hover {
+    background-color: yellow;
+ 
 }
