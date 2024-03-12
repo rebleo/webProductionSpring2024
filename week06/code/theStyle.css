@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    font-size: 36px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main {
+    background-color: pink;
+    padding: 3vw;
+    display: flex;
+  
+   
+}
+
+p {
+    background-color: yellowgreen;
+    padding: 3vw;
+
+}

@@ -1,4 +1,4 @@
- ### Wednesday September 27
+ ### Tuesday Feb 27
 * Quiz 1
 * Discuss Manovich reading
 * Intro to net.art
