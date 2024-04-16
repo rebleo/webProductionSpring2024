@@ -1,7 +1,3 @@
-###### Schedule for last weeks
-* No class April 23 + 30 bc spring break 
-* May 7th - User testing. A working proof of concept of your final due
-* final projects due in class May 14th
 
 ##### Tuesday April 16
 * Discuss animations assignment
