@@ -1,4 +1,7 @@
 
+
+### If we did not turn in your protoype in class tonight: do so, link it on week 12 and email me by 6pm on Thursday May 9th to get half credit 
+
 ### More JS Libraires
 #### But Also [are js frameworks obsolete?](https://stackoverflow.blog/2021/11/10/does-es6-make-javascript-frameworks-obsolete/)
 
